@@ -1,2 +1,2 @@
 # Discord_ChatBot
-Chatbot with puppeteer  awd
+The Discord AutoChatBot is a tool that uses puppeteer, a library for controlling a headless version of the Chrome browser, to automatically send messages in a Discord server. This can be useful for things like promoting a server, reminding members of events or announcements, or just providing a fun way to interact with members. The AutoChatBot can be set up to send messages at specific intervals or in response to certain triggers, and it can be customized with different messages and settings to suit the needs of the user.
